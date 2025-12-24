@@ -1,6 +1,4 @@
-## Hi there 👋
-
-¡Bienvenido! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/0b75778e-dcb5-4f9e-804a-ba72d732ab57" />
+## ¡Bienvenido! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/0b75778e-dcb5-4f9e-804a-ba72d732ab57" />
 
 Soy Joel, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y apasionado por la programación.
 
