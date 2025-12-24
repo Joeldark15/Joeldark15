@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Joeldark15/Joeldark15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/0b75778e-dcb5-4f9e-804a-ba72d732ab57" />
 
-Here are some ideas to get you started:
+Soy Joel, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y apasionado por la programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta convertir ideas en proyectos funcionales.
+Cuando se me ocurre algo, intento llevarlo a la práctica y aprender todo lo posible por el camino.
+
+Trabajo principalmente con lenguajes y tecnologías vistas en DAM, y utilizo GitHub como espacio para experimentar, practicar y mejorar mis habilidades como desarrollador.
+
+En mi perfil encontrarás varios proyectos anclados que reflejan mi progreso y mi forma de trabajar, desde ejercicios académicos hasta proyectos personales.
+
+Mi objetivo es seguir creciendo como desarrollador, mejorar mis buenas prácticas y ampliar conocimientos en desarrollo de software.
+
+Datos curiosos:
+
+·Me gusta el anime
+
+·Entreno en el gimnasio
+
+·Disfruto creando y programando cosas nuevas
